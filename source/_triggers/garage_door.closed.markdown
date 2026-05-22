@@ -116,7 +116,7 @@ If you use the garage as your main entrance, this automation can lock the interi
 
 - **Trigger**: Garage door closed
   - **Target**: Garage door
-- **Action**: Lock
+- **Action**: Lock lock
 
 {% details "YAML example for locking the interior entry door" %}
 

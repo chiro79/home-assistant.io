@@ -90,7 +90,7 @@ If you have created a bedtime {% term helper %} separately, this automation wait
 - **Condition**: Garage door is closed
   - **Target**: Garage door
   - **For at least**: 00:10:00
-- **Action**: Arm away
+- **Action**: Arm alarm away
 
 {% details "YAML example for arming the garage alarm after the door stays closed" %}
 
